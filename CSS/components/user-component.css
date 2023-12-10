@@ -7,7 +7,7 @@
 .user-component_avatar {
     width: 70px;
     height: 70px;
-    border-radius: 27px;
+    border-radius: 30px;
     margin-right: 20px;
 }
 
@@ -21,4 +21,9 @@
     margin-top: 8px;
     font-size: 17px;
     color: (0, 0, 0, 0.5);
+}
+
+.user-component_avatpr-xl {
+    width: 80px;
+    height: 80px;
 }
